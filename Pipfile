@@ -5,6 +5,9 @@ name = "pypi"
 
 [packages]
 google-cloud-bigquery = "*"
+kfp = "*"
+google-cloud-pipeline-components = "*"
+python-dotenv = "*"
 
 [dev-packages]
 ipykernel = "*"
